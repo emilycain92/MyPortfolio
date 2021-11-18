@@ -118,11 +118,11 @@ header {
   }
 /* PROJECTS */
 
-.projects {
+.project {
     padding: 20px 0 0 0;
   }
   
-  .projects h3 {
+  .project h3 {
     float: left;
     margin: 0 0 0 75px;
     height: 80vh;
@@ -167,7 +167,7 @@ header {
     grid-column-end: 7;
     grid-row-start: 1;
     grid-row-end: 3;
-    background-image: url("/assets/images/runbuddylandingpage.png");
+    background-image: url(../assets/images/runbuddylandingpage.png);
     background-size: cover;
     background-position: center;
   }
@@ -177,7 +177,7 @@ header {
     grid-column-end: 10;
     grid-row-start: 1;
     grid-row-end: 2;
-    background-image: url("/assets/images/baloo.png");
+    background-image: url(../assets/images/baloo.png);
     background-size: cover;
     background-position: center;
   }
@@ -188,7 +188,7 @@ header {
     grid-column-end: 10;
     grid-row-start: 2;
     grid-row-end: 3;
-    background-image: url("/assets/images/baloo2.png");
+    background-image: url(../assets/images/baloo2.png);
     background-size: cover;
     background-position: center;
   }
@@ -199,7 +199,7 @@ header {
     grid-column-end: 4;
     grid-row-start: 3;
     grid-row-end: 4;
-    background-image: url("/assets/images/poppy.png");
+    background-image: url(../assets/images/poppy.png);
     background-size: cover;
     background-position: center;
   }
@@ -210,7 +210,7 @@ header {
     grid-column-end: 7;
     grid-row-start: 3;
     grid-row-end: 4;
-    background-image: url("/assets/images/cocktail.png");
+    background-image: url(../assets/images/cocktail.png);
     background-size: cover;
     background-position: center;
   }
